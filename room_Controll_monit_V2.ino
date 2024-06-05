@@ -4,10 +4,10 @@
 #include "DHT.h"
 
 
-#define FIREBASE_HOST "https://room-control-with-monitoring-default-rtdb.firebaseio.com/" 
-#define FIREBASE_AUTH "cj21zMOwMYGsu9dk1SmYbmPiPIE508BzqFQEf3mm"
-#define WIFI_SSID "Wifi_S"
-#define WIFI_PASSWORD "Souraf@123"
+#define FIREBASE_HOST "----" 
+#define FIREBASE_AUTH "----"
+#define WIFI_SSID "----"
+#define WIFI_PASSWORD "----"
 
 #define DHTPIN D2		
 int relay_Light = D5;			
